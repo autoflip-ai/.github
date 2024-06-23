@@ -8,6 +8,6 @@ At autoflip.ai, we understand that buying a car is a significant decision. That'
 
 Join us in transforming the car shopping experience, and let autoflip.ai guide you to your perfect car effortlessly.
 
-Sign up by clicking [here](https://autoflip.ai)
+**Sign up by clicking [here](https://autoflip.ai)**
 
-*autoflip.ai - Your AI-driven car shopping assistant.*
+*autoflip.ai © 2024*
